@@ -1,2 +1,1 @@
-# TEST2REPO
-daily proj
+read me of branch 2
